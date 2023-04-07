@@ -1,3 +1,7 @@
+https://console.cloud.google.com/bigquery?sq=187793664927:afef088c9e944f5b9d04f18b9cf056e0
+
+
+
 select * from `Covid_data.Covid_Info` order by 3,4
 
 select location, date, total_cases, new_cases, total_deaths, population 
